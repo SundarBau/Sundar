@@ -1,4 +1,4 @@
-# 🚀 Project Sundar Bale
+# 🚀 Sundar Bale
 
 ## 🛠️ Built With
 
